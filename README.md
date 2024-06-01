@@ -1,2 +1,2 @@
 # SU24
-Summer 2024 Term
+ODEs PILOT for JHU for Summer 2024 Term.
